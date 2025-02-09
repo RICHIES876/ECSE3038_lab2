@@ -1,0 +1,1 @@
+the purpose for writting this code was for assignment. The objective of the assignmnet is to expose me to "get" and "post" request handler. On that note, the creation of "get" function this allowed for me to obtain from content from 
