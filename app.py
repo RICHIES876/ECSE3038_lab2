@@ -26,9 +26,10 @@ async def fav_pokey_image_for_extra_grade():
                 <img width="465" height="500" style="padding-left:2px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35715733-8786-4d50-9c56-6790474b278c/de2awz2-c60c4f10-e25c-4f13-a581-514e9e1372ed.jpg/v1/fill/w_1920,h_1358,q_75,strp/mew_and_mewtwo_by_dekunobou_kizakura_de2awz2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM1OCIsInBhdGgiOiJcL2ZcLzM1NzE1NzMzLTg3ODYtNGQ1MC05YzU2LTY3OTA0NzRiMjc4Y1wvZGUyYXd6Mi1jNjBjNGYxMC1lMjVjLTRmMTMtYTU4MS01MTRlOWUxMzcyZWQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.kYgybQnoG2r2zCMQk_57uiuDSutU1NUHYeyzGVz7gPw"/>
             </div>
             <h2 style="color:white"> REASON: </h2> 
-            <h3 style="color:white">   Personally, if had the opportunity to gain supernatural abilities Mewtwo would be my direct go to, just just having all that raw power and thought of being unstoppable and alway in control is just me thats one of my main reason <h3>
+            <h3 style="color:white">  Personally, if had the opportunity to gain supernatural abilities Mewtwo would be my direct go to, just just having all that raw power and thought of being unstoppable and alway in control is just me thats one of my main reason <h3>
     """
     return HTMLResponse(content=html_content, status_code=200)
+
 #this is where the API is created 
 # this is the route or the path that lead to request, just what is in the bracket()
 
